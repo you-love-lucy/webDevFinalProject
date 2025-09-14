@@ -1,0 +1,12 @@
+- fix padding on forum entries on dashboard
+- lay out game flow
+- add typewriter effect to intro
+- profile.html
+- finish dashboard 
+- make forum pages (figure out which ones are needed)
+- add pictures, such as icon for profile, friends, etc.
+- add forum dropdown
+- apply dashboard to all pages
+
+optional:
+- add central friends page
